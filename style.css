@@ -1,6 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&family=Rowdies:wght@300&display=swap');
-background: #6100e8;
+
+body{
+    background: #6100e8;
 background: linear-gradient(90deg, rgba(97, 0, 232, 1) 0%, rgba(199, 87, 164, 1) 50%, rgba(250, 219, 255, 1) 100%);
+}
 
 html, body{
     height:100%;
